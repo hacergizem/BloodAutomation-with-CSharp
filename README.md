@@ -7,7 +7,7 @@ This is my first project I used database. I coded the basic real blood bank auto
 ![DataBase Connection](https://i.hizliresim.com/WKlmLF.png)
 
 We are creating our project’s database tables. We’ll use this information in our quaries later.
-This table gives us donor information.
+Create a query in Microsoft SQL Server Managment Studio. This table gives us donor information.
 
 ![Add New Donor](https://i.hizliresim.com/DJ6MbQ.png)
 
